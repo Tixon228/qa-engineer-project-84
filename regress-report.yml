@@ -41,7 +41,7 @@ test-cases:
     status: fail
     
   - summary: |
-    Проверка отображения товаров в каталоге
+      Проверка отображения товаров в каталоге
     status: pass
 
   - summary: |
